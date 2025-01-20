@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Swift when handling URL requests: neglecting to check for server-side errors. The `bug.swift` file contains the flawed code, which only handles invalid URLs. The `bugSolution.swift` file provides an improved version with proper error handling.
